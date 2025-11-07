@@ -13,6 +13,6 @@ My research interests include cloud storage, distributed computing technology, a
 
 Publications
 ======
-[<span style="color:maroon">DRLServe: Adaptive Prefill Chunking with Deep Reinforcement Learning for LLM Inference</span>](10.3233/faia250867)
-**Chongxiang Sun**; Han Bao; Yijie Wang
-**ECAI 2025**[PDF](10.3233/faia250867)
+[<span style="color:maroon">DRLServe: Adaptive Prefill Chunking with Deep Reinforcement Learning for LLM Inference</span>](https://doi.org/10.3233/faia250867)  
+**Chongxiang Sun**; Han Bao; Yijie Wang  
+**ECAI 2025** [PDF](https://doi.org/10.3233/faia250867)
