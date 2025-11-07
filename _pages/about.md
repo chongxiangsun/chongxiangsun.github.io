@@ -20,7 +20,7 @@ Publications
 </div>
 
 <div style="margin-bottom: 1.2em; line-height: 1.3;">
-<div><a href="https://doi.org/110.1016/j.comnet.2024.110451"><span style="color:darkred">A novel method for solving the multi-commodity flow problem on evolving networks</span></a></div>
+<div><a href="https://doi.org/10.1016/j.comnet.2024.110451"><span style="color:darkred">A novel method for solving the multi-commodity flow problem on evolving networks</span></a></div>
 <div>Huilong Fan; <strong>Chongxiang Sun</strong>; Jun Long; Shangpeng Wang; Fei Zeng</div>
 <div><em>Computer Networks</em>, 2024-06</div>
 </div>
