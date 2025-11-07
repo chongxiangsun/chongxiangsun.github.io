@@ -10,8 +10,8 @@ I am a master's student at the School of Computer Science, National University o
 
 My research interests include cloud storage, distributed computing technology, and artificial intelligence.
 
-Email: chongxiangsun@nudt.edu.cn, 15998301678@163.com  
-<a href="../assets/CV.pdf">CV</a>
+<a href="../assets/CV.pdf">CV</a> / Email: chongxiangsun@nudt.edu.cn, 15998301678@163.com  
+
 
 Publications
 ======
