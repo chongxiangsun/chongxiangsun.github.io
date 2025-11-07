@@ -17,43 +17,31 @@ Publications
 
 **Chongxiang Sun**; Han Bao; Yijie Wang 
 
-2025-10 | Conference paper
-
-The 28th European Conference on Artificial Intelligence
-
 **ECAI 2025** 
 
 [<span style="color:darkred">A novel method for solving the multi-commodity flow problem on evolving networks</span>](https://doi.org/110.1016/j.comnet.2024.110451)  
 
 Huilong Fan; **Chongxiang Sun**; Jun Long; Shangpeng Wang; Fei Zeng
 
-2024-06 | Journal article
-
-**Computer Networks** 
+2024-06 **Computer Networks** 
 
 [<span style="color:darkred">Graph-Driven Resource Allocation Strategies in Satellite IoT: A Cooperative Game-Theoretic Approachs</span>](https://doi.org/10.1109/JIOT.2024.3407123)  
 
 Huilong Fan; **Chongxiang Sun**; Jun Long; Ling Li; Yakun Huo; Shangpeng Wang
 
-2025-02 | Journal article
-
-**IEEE Internet of Things Journal** 
+2025-02 **IEEE Internet of Things Journal** 
 
 [<span style="color:darkred">Real-time adaptive scheduling optimization for inter-satellite contact window resources in dynamic satellite networks</span>](https://doi.org/10.1016/j.eswa.2024.124452)  
 
 Huilong Fan; **Chongxiang Sun**; Zidong Wang; Jun Long; Shangpeng Wang
 
-2024-12 | Journal article
-
-**Expert Systems with Applications**
+2024-12 **Expert Systems with Applications**
 
 [<span style="color:darkred">Remote-Sensing Satellite Mission Scheduling Optimisation Method under Dynamic Mission Priorities</span>](https://doi.org/10.3390/math12111704)  
 
 Xiuhong Li; **Chongxiang Sun**; Huilong Fan; Jiale Yang
 
-2024-05-30 | Journal article
-
-**Mathematics**
+2024-05-30 **Mathematics**
 
 
 
