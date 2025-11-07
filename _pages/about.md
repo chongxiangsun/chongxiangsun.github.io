@@ -42,3 +42,10 @@ Publications
 <div>Xiuhong Li; <strong>Chongxiang Sun</strong>; Huilong Fan; Jiale Yang</div>
 <div><em>Mathematics</em>, 2024-05</div>
 </div>
+
+Patents
+======
+<div style="margin-bottom: 1.2em; line-height: 1.3;">
+<div><a href=""><span style="color:darkred">基于强化学习分块的云际大模型推理任务调度方法</span></a></div>
+<div>2025</div>
+</div>
