@@ -14,31 +14,31 @@ My research interests include cloud storage, distributed computing technology, a
 Publications
 ======
 <div style="margin-bottom: 1.2em; line-height: 1.3;">
-<div><a href="链接1"><span style="color:darkred">DRLServe: Adaptive Prefill Chunking with Deep Reinforcement Learning for LLM Inference</span></a></div>
+<div><a href="https://doi.org/10.3233/faia250867"><span style="color:darkred">DRLServe: Adaptive Prefill Chunking with Deep Reinforcement Learning for LLM Inference</span></a></div>
 <div><strong>Chongxiang Sun</strong>; Han Bao; Yijie Wang</div>
-<div><em>ECAI 2025</em></div>
+<div><em>ECAI 2025</em>, 2025-10</div>
 </div>
 
 <div style="margin-bottom: 1.2em; line-height: 1.3;">
-<div><a href="链接2"><span style="color:darkred">A novel method for solving the multi-commodity flow problem on evolving networks</span></a></div>
+<div><a href="https://doi.org/110.1016/j.comnet.2024.110451"><span style="color:darkred">A novel method for solving the multi-commodity flow problem on evolving networks</span></a></div>
 <div>Huilong Fan; <strong>Chongxiang Sun</strong>; Jun Long; Shangpeng Wang; Fei Zeng</div>
 <div><em>Computer Networks</em>, 2024-06</div>
 </div>
 
 <div style="margin-bottom: 1.2em; line-height: 1.3;">
-<div><a href="链接3"><span style="color:darkred">Graph-Driven Resource Allocation Strategies in Satellite IoT: A Cooperative Game-Theoretic Approach</span></a></div>
+<div><a href="https://doi.org/10.1109/JIOT.2024.3407123"><span style="color:darkred">Graph-Driven Resource Allocation Strategies in Satellite IoT: A Cooperative Game-Theoretic Approach</span></a></div>
 <div>Huilong Fan; <strong>Chongxiang Sun</strong>; Jun Long; Ling Li; Yakun Huo; Shangpeng Wang</div>
 <div><em>IEEE Internet of Things Journal</em>, 2025-02</div>
 </div>
 
 <div style="margin-bottom: 1.2em; line-height: 1.3;">
-<div><a href="链接4"><span style="color:darkred">Real-time adaptive scheduling optimization for inter-satellite contact window resources in dynamic satellite networks</span></a></div>
+<div><a href="https://doi.org/10.1016/j.eswa.2024.124452"><span style="color:darkred">Real-time adaptive scheduling optimization for inter-satellite contact window resources in dynamic satellite networks</span></a></div>
 <div>Huilong Fan; <strong>Chongxiang Sun</strong>; Zidong Wang; Jun Long; Shangpeng Wang</div>
 <div><em>Expert Systems with Applications</em>, 2024-12</div>
 </div>
 
 <div style="margin-bottom: 1.2em; line-height: 1.3;">
-<div><a href="链接5"><span style="color:darkred">Remote-Sensing Satellite Mission Scheduling Optimisation Method under Dynamic Mission Priorities</span></a></div>
+<div><a href="https://doi.org/10.3390/math12111704"><span style="color:darkred">Remote-Sensing Satellite Mission Scheduling Optimisation Method under Dynamic Mission Priorities</span></a></div>
 <div>Xiuhong Li; <strong>Chongxiang Sun</strong>; Huilong Fan; Jiale Yang</div>
-<div><em>Mathematics</em>, 2024-05-30</div>
+<div><em>Mathematics</em>, 2024-05</div>
 </div>
